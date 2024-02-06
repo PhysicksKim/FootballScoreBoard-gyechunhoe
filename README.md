@@ -1,4 +1,4 @@
-![image](https://github.com/PhysicksKim/FootballScoreBoard-gyechunhoe/assets/101965836/cdf10a6b-67bc-43cb-a5b0-2c1e628d640a)  
+![image](https://github.com/PhysicksKim/FootballScoreBoard-gyechunhoe/assets/101965836/e9d79631-b749-4c2b-aec3-c22ed84684e5)  
   
 ---
   
