@@ -1,3 +1,7 @@
+![image](https://github.com/PhysicksKim/FootballScoreBoard-gyechunhoe/assets/101965836/cdf10a6b-67bc-43cb-a5b0-2c1e628d640a)  
+  
+---
+  
 # 개요 : 축구 입중계용 타이머 - 계춘회
 
 [축구 입중계용 타이머 - 계춘회](https://physickskim.github.io/FootballScoreBoard-gyechunhoe/)  
