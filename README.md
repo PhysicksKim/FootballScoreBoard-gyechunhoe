@@ -1,19 +1,20 @@
-![image](https://github.com/PhysicksKim/FootballScoreBoard-gyechunhoe/assets/101965836/e9d79631-b749-4c2b-aec3-c22ed84684e5)  
-  
+![image](https://github.com/PhysicksKim/FootballScoreBoard-gyechunhoe/assets/101965836/e9d79631-b749-4c2b-aec3-c22ed84684e5)
+
 ---
-  
+
 # 개요 : 축구 입중계용 타이머 - 계춘회
 
-[축구 입중계용 타이머 - 계춘회](https://physickskim.github.io/FootballScoreBoard-gyechunhoe/)  
-  
-축구 입중계를 위한 타이머 오버레이 입니다.  
-OBS 브라우저 소스에 등록하고, 브라우저 소스 상호작용을 통해 조작할 수 있습니다.  
-  
-<br><br>  
+[축구 입중계용 타이머 - 계춘회](https://physickskim.github.io/FootballScoreBoard-gyechunhoe/)
 
-# OBS 세팅법  
-  
+축구 입중계를 위한 타이머 오버레이 입니다.  
+OBS 브라우저 소스에 등록하고, 브라우저 소스 상호작용을 통해 조작할 수 있습니다.
+
+<br><br>
+
+# OBS 세팅법
+
 ### 1. 타이머 웹 페이지 주소를 복사합니다
+
 ```
 https://physickskim.github.io/FootballScoreBoard-gyechunhoe/
 ```
@@ -59,4 +60,4 @@ Alt 를 누른 채로 소스 크기를 조절하면 화면을 자를 수 있습�
 브라우저 소스 오른쪽 마우스 버튼 클릭  
 **상호작용** 을 클릭    
     
-상호작용 창을 통해서 타이머를 조작할 수 있습니다.    
+상호작용 창을 통해서 타이머를 조작할 수 있습니다.
