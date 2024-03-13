@@ -1,5 +1,5 @@
-![image](https://github.com/PhysicksKim/FootballScoreBoard-gyechunhoe/assets/101965836/12689a36-e5f6-46ed-8ce1-b4c0f2fe294d)  
-  
+![image](https://github.com/PhysicksKim/FootballScoreBoard-gyechunhoe/assets/101965836/1031ebc6-608b-47dd-a49a-b8790a4ad783)
+
 ---
 
 # 개요 : 축구 입중계용 타이머 - 계춘회
