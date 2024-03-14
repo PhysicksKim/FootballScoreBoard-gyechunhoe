@@ -2,10 +2,12 @@
 
 ---
 
-# 개요 : 축구 입중계용 타이머 - 계춘회
-
-[축구 입중계용 타이머 - 계춘회](https://physickskim.github.io/FootballScoreBoard-gyechunhoe/)
-
+# 개요 : 축구 입중계 타이머 - 계춘회
+  
+[입중계 타이머 v1.1](https://physickskim.github.io/FootballScoreBoard-gyechunhoe/)  
+[입중계 타이머 v1.2-beta](https://gyechunsik.site/scoreboard)  
+  
+  
 축구 입중계를 위한 타이머 오버레이 입니다.  
 OBS 브라우저 소스에 등록하고, 브라우저 소스 상호작용을 통해 조작할 수 있습니다.
 
