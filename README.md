@@ -7,10 +7,21 @@
 [입중계 타이머 v1.1](https://physickskim.github.io/FootballScoreBoard-gyechunhoe/)  
 [입중계 타이머 v1.2-beta](https://gyechunsik.site/scoreboard)  
   
-  
 축구 입중계를 위한 타이머 오버레이 입니다.  
 OBS 브라우저 소스에 등록하고, 브라우저 소스 상호작용을 통해 조작할 수 있습니다.
 
+> # For Developers and Other Streamers
+> The code for this project is open source and available for anyone.
+> If you have any inquiries about using the football live score board and others,
+> please contact me at the email listed in my GitHub profile.  
+> # 개발자 및 타 스트리머에게  
+> 본 프로젝트의 코드는 오픈소스로 누구나 수정 후 사용하실 수 있습니다.
+> 입중계 타이머 및 기타 서비스에 대해서 문의사항이 있으시다면
+> Github 프로필에 있는 이메일로 문의 바랍니다.
+>    
+> ### [FrontEnd Repository](https://github.com/PhysicksKim/FootballStreamOverlay)    
+> ### [BackEnd Repository](https://github.com/PhysicksKim/score-board-backend)    
+  
 <br><br>
 
 # OBS 세팅법
