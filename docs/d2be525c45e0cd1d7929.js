@@ -1,0 +1,1 @@
+let msTickInterval=null;onmessage=a=>{"stop"===a.data?clearInterval(msTickInterval):"start"===a.data&&(msTickInterval&&clearInterval(msTickInterval),msTickInterval=setInterval((()=>{postMessage("tick")}),100))};
