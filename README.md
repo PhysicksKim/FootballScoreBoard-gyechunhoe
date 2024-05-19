@@ -7,14 +7,52 @@
 [Score Board v1.2](https://gyechunsik.site/scoreboard)  
   
 스트리머 계춘회님의 Score Board 오버레이입니다.  
+
+<br><br>  
+
+---
+
+<br><br>  
   
-## 라이센스 안내 (License Information)  
-1. 코드 열람, 테스트 사용 : 누구나 자유롭게 코드를 열람하실 수 있고, 테스트 목적으로 사용할 수 있습니다.  
-2. 문의 필요: 사용된 SD 캐릭터 이미지의 저작권으로 인하여, 라이브 스트리밍이나 기타 방송 목적으로 사용하려면 반드시 사전에 문의 바랍니다.  
+## 라이센스 안내 - 한국어
+2024-05-20 이후로 아래의 라이센스에 따릅니다.  
   
-## 문의 이메일  
+- MIT License. 단, 아래 추가 사항 준수 필요.      
+  
+### 추가 사항 - 이미지 저작권
+사용된 "캐릭터 이미지의 저작권"으로 인하여 계춘회님 외의 다른 스트리머분이 사용하시려면 수정이 필요합니다.      
+❗️ 반드시, 라이브 스트리밍이나 기타 방송 및 상업 목적으로 사용하시려면 사전에 문의 바랍니다.   
+   
+### 이외 MIT License 에 따름  
+- 코드 열람, 테스트(개인적) 사용 : 누구나 자유롭게 코드를 열람하실 수 있고, 테스트 목적으로 사용할 수 있습니다.  
+- 상업적 사용 : 가능. 단 앞선 "추가 사항 - 이미지 저작권" 준수 필요    
+- 수정 배표 가능  
+   
+### 문의 이메일  
+✉️ physickskim@gmail.com    
+  
+--- 
+  
+## License Information - English  
+As of 2024-05-20, the following license applies.  
+   
+- MIT License, with the following additional terms.  
+  
+### Additional Terms - Image Copyright
+Due to the "character image copyright," any streamer other than 계춘회 must make modifications.   
+❗️ For live streaming, other broadcasts, or commercial use, prior inquiry is required.  
+  
+### Otherwise, the MIT License applies  
+- Code viewing and personal testing use: Anyone is free to view the code and use it for testing purposes.  
+- Commercial use: Allowed, but compliance with the above "Additional Terms - Image Copyright" is required.  
+- Modification and redistribution: Allowed  
+  
+### Contact Email  
 ✉️ physickskim@gmail.com  
-  
+
+<br><br>
+
+---
   
 <br><br>  
   
