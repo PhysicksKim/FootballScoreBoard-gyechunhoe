@@ -1,33 +1,27 @@
 ![image](https://github.com/PhysicksKim/FootballScoreBoard-gyechunhoe/assets/101965836/1031ebc6-608b-47dd-a49a-b8790a4ad783)
-
----
-
-# 개요 : 축구 입중계 타이머 - 계춘회
   
-[입중계 타이머 v1.1](https://physickskim.github.io/FootballScoreBoard-gyechunhoe/)  
-[입중계 타이머 v1.2-beta](https://gyechunsik.site/scoreboard)  
+---  
   
-축구 입중계를 위한 타이머 오버레이 입니다.  
-OBS 브라우저 소스에 등록하고, 브라우저 소스 상호작용을 통해 조작할 수 있습니다.
-
-> # For Developers and Other Streamers
-> The code for this project is open source and available for anyone.
-> If you have any inquiries about using the football live score board and others,
-> please contact me at the email listed in my GitHub profile.  
-> # 개발자 및 타 스트리머에게  
-> 본 프로젝트의 코드는 오픈소스로 누구나 수정 후 사용하실 수 있습니다.
-> 입중계 타이머 및 기타 서비스에 대해서 문의사항이 있으시다면
-> Github 프로필에 있는 이메일로 문의 바랍니다.
->    
-> ### [FrontEnd Repository](https://github.com/PhysicksKim/FootballStreamOverlay)    
-> ### [BackEnd Repository](https://github.com/PhysicksKim/score-board-backend)    
+# 개요 : Score Board - 계춘회
   
-<br><br>
-
-# OBS 세팅법
-
-### 1. 타이머 웹 페이지 주소를 복사합니다
-
+[Score Board v1.2](https://gyechunsik.site/scoreboard)  
+  
+스트리머 계춘회님의 Score Board 오버레이입니다.  
+  
+## 라이센스 안내 (License Information)  
+1. 코드 열람, 테스트 사용 : 누구나 자유롭게 코드를 열람하실 수 있고, 테스트 목적으로 사용할 수 있습니다.  
+2. 문의 필요: 사용된 SD 캐릭터 이미지의 저작권으로 인하여, 라이브 스트리밍이나 기타 방송 목적으로 사용하려면 반드시 사전에 문의 바랍니다.  
+  
+## 문의 이메일  
+✉️ physickskim@gmail.com  
+  
+  
+<br><br>  
+  
+# OBS 세팅법  
+  
+### 1. 타이머 웹 페이지 주소를 복사합니다  
+  
 ```
 https://physickskim.github.io/FootballScoreBoard-gyechunhoe/
 ```
@@ -73,4 +67,5 @@ Alt 를 누른 채로 소스 크기를 조절하면 화면을 자를 수 있습�
 브라우저 소스 오른쪽 마우스 버튼 클릭  
 **상호작용** 을 클릭    
     
-상호작용 창을 통해서 타이머를 조작할 수 있습니다.
+상호작용 창을 통해서 타이머를 조작할 수 있습니다.  
+  
