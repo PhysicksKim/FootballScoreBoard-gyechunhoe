@@ -4,7 +4,8 @@
   
 # 개요 : Score Board - 계춘회
   
-[Score Board v1.2](https://gyechunsik.site/scoreboard)  
+[Score Board](https://gyechunsik.site/scoreboard)  
+[Score Board - 서버 접속 불가시](https://physickskim.github.io/FootballScoreBoard-gyechunhoe/)  
   
 스트리머 계춘회님의 Score Board 오버레이입니다.  
 
